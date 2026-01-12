@@ -54,7 +54,7 @@ vscode-theme-generator generate -l js,python -c "#00ff00" -t dark -s -n "My Them
 
 ---
 
-### 🔹 **Snap It Like It's Hot** | Screenshot Extension
+### 🔹 **Snap It Like It's Hot** | Chrome & Chromium Browsers Screenshot Extension
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/sametYILMAZ97/snap-it-like-its-hot) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sametYILMAZ97/snap-it-like-its-hot/blob/main/LICENSE)
 
@@ -68,7 +68,7 @@ vscode-theme-generator generate -l js,python -c "#00ff00" -t dark -s -n "My Them
 
 ---
 
-### 🔹 **Google Drive Video Downloader** | Chrome Extension
+### 🔹 **Google Drive Video Downloader** | Chrome & Chromium Browsers Extension
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/sametYILMAZ97/chrome-drive-video-downloader) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sametYILMAZ97/chrome-drive-video-downloader/blob/main/LICENSE)
 
