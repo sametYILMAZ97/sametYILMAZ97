@@ -16,27 +16,47 @@
 
 ### 🔹 **Dost Tarım Teknolojileri** | Full Stack Developer _(Jul 2025 - Present)_
 
+> _Agricultural robotics & farm management_
+
 - 🤖 Built the **touchscreen UI for an autonomous milking robot** — Next.js 14 + Zustand, with real-time **Socket.IO** sensor and alarm telemetry across a 30-module API layer
 - 🌱 Developed the **farm-management web platform** end to end — 216-file **Next.js/TypeScript** app with Turkish/English **i18n**, Excel/CSV reporting, and a full Figma-based UI rebuild
-- 📱 Shipped a **React Native + Expo** herd-management app to **v1.2.5** — offline-first **TanStack Query** caching, live GPS collar tracking
+- 📱 Shipped a **React Native + Expo** herd-management app — offline-first **TanStack Query** caching, live GPS collar tracking
 - 🦀 Wrote a **Tauri 2 desktop launcher in Rust** — automatic farm-LAN → remote failover, health probing, system-tray status; packaged for Windows, Linux & macOS
 - 🌿 Built **MQTT-driven** greenhouse locomotive & rail control interfaces — UWB positioning, RFID management, charging control
 - 🏗️ Led a **structural modernization** of the farm app: `src/` layout, Zustand state, next-intl localization, and API-layer decomposition
 
 ### 🔹 **KEND (Poliark)** | Full Stack Developer _(Sep 2023 - Jun 2025)_
 
+> _Browser-based 3D building & interior design platform_
+
 - 👤 **Sole full-stack engineer** on a four-person team (UI designer, AI developer, project manager) — owned **architecture, development and deployment** end to end
+- 🏛️ Built a **browser-based 3D building and room designer** in **Three.js** and **WebGL** — direct-manipulation editing at **CAD-level detail**, modelling windows with frames, doors with knobs, and elevators in both **3D and 2D**
+- 🤖 Integrated an **AI chat that designs rooms and buildings conversationally** and generates **context-aware renders**, cutting manual design time
+- 🗺️ Built **map-based lot selection** that pulls **parcel polygons** from map data to seed building footprints
 - 🏗️ Developed **14+ backend microservices** with scalable architecture
-- 🎨 Created **3D Visualization Web App** with AI integration reducing manual design time
-- 💳 Designed subscription-based payment systems
+- 💳 Designed a subscription-based payment system with **Stripe**
 - ☁️ Managed cloud service deployments on **Google Cloud Run** & **AWS**
 
 ### 🔹 **WeeScooter (WES Advanced Technologies)** | Full Stack Developer _(Apr 2022 - Aug 2023)_
 
-- 📱 Implemented secure mobile payment system serving **40,000+ users**
-- 🏗️ Developed **monolith** backend for **real-time hardware communication** with 200+ devices
+> _E-scooter rental platform, 40,000+ users_
+
+- 📱 Implemented a secure **mobile wallet and payment system** with **Iyzico**, serving **40,000+ users**
+- 🛂 Built **identity verification against official government APIs** — validating Turkish citizens, resident immigrants, and visiting tourists before rental
+- 🏗️ Developed a **monolith backend** for **real-time hardware communication** with **200+ devices**
 - 🔌 Contributed to hardware/software installations and device functionality
 - 🔗 Wallet integration with **auto** balance **actions**
+
+### 🔹 **TRADENS University Team** | Frontend Developer _(Jan 2022 - Dec 2024)_
+
+> _TEKNOFEST autonomous industrial robot_
+
+- 🤖 Built the **web and mobile control apps** (React, React Native) for an autonomous robot that **lifts heavy loads in factories**
+- 🥇 **The only team in the competition to drive the robot from an app** — every other team mounted a touchscreen on the robot body
+- 🗺️ Implemented **path selection and live factory mapping** — operators send the robot along chosen routes and watch the mapped floor in real time
+- 🎨 Designed the UI components for both apps
+- 🏆 **Multiple-time TEKNOFEST winner** with the team
+- 👥 Mentored **7 junior (student)** frontend developers
 
 ## 🛠️ Recent Projects
 
@@ -89,10 +109,10 @@ vscode-theme-generator generate -l js,python -c "#00ff00" -t dark -s -n "My Them
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/sametYILMAZ97/chrome-drive-video-downloader)
 
-> Download private and shared videos from Google Drive
+> Retrieve private and shared Google Drive videos the built-in player marks as non-downloadable
 
 - 📥 Download **private/shared videos** from Google Drive
-- ⚡ Bypass Google Drive's built-in video player restrictions
+- ⚡ Works on videos where Drive's own player offers no download option
 
 ---
 
@@ -140,7 +160,11 @@ vscode-theme-generator generate -l js,python -c "#00ff00" -t dark -s -n "My Them
 
 ### **Frontend Development**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618?style=flat&logo=radixui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![D3](https://img.shields.io/badge/D3-F9A03C?style=flat&logo=d3.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618?style=flat&logo=radixui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+
+### **3D & Visualization**
+
+![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![D3](https://img.shields.io/badge/D3-F9A03C?style=flat&logo=d3.js&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=chart.js&logoColor=white) ![Konva](https://img.shields.io/badge/Konva-0D83CD?style=flat&logoColor=white)
 
 ### **Real-Time & Hardware**
 
@@ -164,7 +188,7 @@ vscode-theme-generator generate -l js,python -c "#00ff00" -t dark -s -n "My Them
 
 ### **State Management & Data**
 
-![zustand](https://img.shields.io/badge/zustand-%234A5568.svg?style=flat&logo=zustand&logoColor=white) ![React Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Pinia](https://img.shields.io/badge/pinia-FFD859?style=flat&logo=pinia&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=chart.js&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+![zustand](https://img.shields.io/badge/zustand-%234A5568.svg?style=flat&logo=zustand&logoColor=white) ![React Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Pinia](https://img.shields.io/badge/pinia-FFD859?style=flat&logo=pinia&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 
 ### **Tools & Utilities**
 
@@ -173,10 +197,13 @@ vscode-theme-generator generate -l js,python -c "#00ff00" -t dark -s -n "My Them
 ## 🚀 Key Achievements
 
 - 🏆 **TEKNOFEST Success Certificate** — First Place in Autonomous Robots in Industry Competition
+- 🥇 **Only team at TEKNOFEST to control the competition robot from a web & mobile app** — every other team bolted a touchscreen to the robot
 - 🤖 **Autonomous milking robot UI** shipped to production touchscreens, driven by live sensor telemetry
+- 🏛️ **CAD-level 3D building designer** with conversational AI and map-based parcel selection
 - 📊 **40,000+ Active Users** with **monolith** service for an e-scooter rent mobile app
 - 🏗️ **14+ Microservices** architected, coded and deployed — as the **sole engineer** on the team
-- 🎨 **AI-Integrated 3D Visualization** reducing manual 3D building design time
+- 🛂 **Government-API identity verification** for citizens, immigrants and tourists in a regulated rental flow
 - 💳 **Secure Payment Systems** handling thousands of transactions for both **wallet** and **subscription** systems
 - 🦀 **Cross-platform desktop app in Rust** with automatic network failover — Windows, Linux & macOS
+- 👥 **Code review & mentoring** for interns and junior developers
 - 🛠️ **15 public repositories** — developer tools, editor extensions, and browser extensions
